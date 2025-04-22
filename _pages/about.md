@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently an undergraduate student in the Turing Class at the School of Information, Renmin University of China. In Fall 2025, I will be a Ph.D. candidate at the Gaoling School of Artificial Intelligence, Renmin University, advised by Prof. Chongxuan Li. My research interests lie in deep generative models and reinforcement learning. Recently, I have been focusing on diffusion language models.
+I am currently an undergraduate student in the Turing Class at the School of Information, Renmin University of China. In Fall 2025, I will be a Ph.D. candidate at the Gaoling School of Artificial Intelligence, Renmin University, advised by Prof. Chongxuan Li. 
+
+My research interests lie in deep generative models and reinforcement learning. Recently, I have been focusing on diffusion language models.
 
 
   
@@ -37,9 +39,9 @@ I am currently an undergraduate student in the Turing Class at the School of Inf
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/network.drawio.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Jingyang Ou**, Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li. 
-Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data.
-International Conference on Learning Representations (**ICLR**), 2025
+-	**Jingyang Ou**, Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li. \\
+Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data. \\
+International Conference on Learning Representations (**ICLR**), 2025 \\
 [[Paper]](https://arxiv.org/abs/2406.03736) [[Code]](https://github.com/ML-GSAI/RADD) [[Poster]](https://iclr.cc/media/PosterPDFs/ICLR%202025/28131.png?t=1744086454.3173294)
 </div>
 </div>
@@ -47,9 +49,9 @@ International Conference on Learning Representations (**ICLR**), 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/LLaDA_vs_LLaMA.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Shen Nie, Fengqi Zhu, Zebin You, Xiaolu Zhang, **Jingyang Ou**, Jun Hu, Jun Zhou, Yankai Lin, Ji-Rong Wen, Chongxuan Li.
-Large Language Diffusion Models. 
-Preprint, 2025
+-	Shen Nie, Fengqi Zhu, Zebin You, Xiaolu Zhang, **Jingyang Ou**, Jun Hu, Jun Zhou, Yankai Lin, Ji-Rong Wen, Chongxuan Li. \\
+Large Language Diffusion Models.  \\
+Preprint, 2025 \\
 [[Paper]](https://arxiv.org/abs/2502.09992) [[Code]](https://github.com/ML-GSAI/LLaDA) [[Demo]](https://ml-gsai.github.io/LLaDA-demo/)
 
 </div>
