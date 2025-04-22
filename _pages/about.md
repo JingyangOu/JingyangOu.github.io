@@ -35,7 +35,6 @@ My research interests lie in deep generative models and reinforcement learning. 
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Papers
----
 
 <div class='paper-box-text' markdown="1">
 
