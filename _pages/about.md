@@ -34,7 +34,7 @@ I am currently an undergraduate student in the Turing Class at the School of Inf
 
 # 📝 Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/network.drawio.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/network.drawio.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Jingyang Ou**, Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li. 
@@ -57,6 +57,7 @@ Preprint, 2025
 
 
 
+<span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
 - **Finalist**, Mathematical Contest in Modeling (*top 2%*), 2023
