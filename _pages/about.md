@@ -40,7 +40,7 @@ My research interests lie in deep generative models and reinforcement learning. 
 <div class='paper-box-text' markdown="1">
 
 -	Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data. \\
-***Jingyang Ou**, Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li* \\
+***Jingyang Ou***, *Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li* \\
 International Conference on Learning Representations (**ICLR**), 2025 \\
 [[Paper]](https://arxiv.org/abs/2406.03736) [[Code]](https://github.com/ML-GSAI/RADD) [[Poster]](https://iclr.cc/media/PosterPDFs/ICLR%202025/28131.png?t=1744086454.3173294)
 </div>
