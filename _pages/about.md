@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently an undergraduate student in the Turing Class at the School of Information, Renmin University of China. In Fall 2025, I will be a Ph.D. candidate at the Gaoling School of Artificial Intelligence, Renmin University, advised by Prof. [Chongxuan Li](https://zhenxuan00.github.io/). 
+I am currently an undergraduate student in the Turing Class at the School of Information, Renmin University of China, advised by Prof. [Chongxuan Li](https://zhenxuan00.github.io/). 
 
 My research interests lie in deep generative models and reinforcement learning. Recently, I have been focusing on diffusion language models.
 
