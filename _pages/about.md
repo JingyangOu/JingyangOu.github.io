@@ -59,7 +59,7 @@ Preprint, 2025 \\
 
 -	Effective and Efficient Masked Image Generation Models.  \\
 *Zebin You, **Jingyang Ou**, Xiaolu Zhang, Jun Hu, Jun Zhou, Chongxuan Li* \\
-Preprint, 2025 \\
+International Conference on Machine Learning (**ICML**), 2025 \\
 [[Paper]](https://arxiv.org/abs/2503.07197) [[Code]](https://github.com/ML-GSAI/eMIGM) 
 
 </div>
