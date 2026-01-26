@@ -41,7 +41,7 @@ My research interests lie in deep generative models and reinforcement learning. 
 <div class='paper-box-text' markdown="1">
 
 -	Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective.  \\
-***Jingyang Ou**, Jiaqi Han, Minkai Xu, Shaoxuan Xu, Jianwen Xie, Stefano Ermon, Yi Wu, Chongxuan Li* \\
+***Jingyang Ou***, *Jiaqi Han, Minkai Xu, Shaoxuan Xu, Jianwen Xie, Stefano Ermon, Yi Wu, Chongxuan Li* \\
 International Conference on Learning Representations (**ICLR**), 2026 \\
 [[Paper]](https://arxiv.org/abs/2512.03759) [[Code]](https://github.com/ML-GSAI/ESPO) 
 
@@ -55,7 +55,8 @@ International Conference on Learning Representations (**ICLR**), 2026 \\
 ***Jingyang Ou***, *Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li* \\
 International Conference on Learning Representations (**ICLR**), 2025 \\
 <span style="color: red;">Proves that masked diffusion models admit a simplified training objective and 
-a time-independent network parameterization, both of which have since become standard. </span>\\
+a time-independent network parameterization,\\
+ both of which have since become standard. </span>\\
 [[Paper]](https://arxiv.org/abs/2406.03736) [[Code]](https://github.com/ML-GSAI/RADD) [[Poster]](https://iclr.cc/media/PosterPDFs/ICLR%202025/28131.png?t=1744086454.3173294)
 </div>
 
@@ -82,7 +83,7 @@ International Conference on Machine Learning (**ICML**), 2025 \\
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
-- **Outstanding Undergraduate Thesis**, (1 recipient per department), 2025
+- **Outstanding Undergraduate Thesis** (1 recipient per department), 2025
 - **Finalist**, Mathematical Contest in Modeling (*top 2%*), 2023
 - **National First Prize**, National College Student Mathematical Modeling Competition (*top 0.60%*), 2022
 
