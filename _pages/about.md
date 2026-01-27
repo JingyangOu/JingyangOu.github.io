@@ -43,8 +43,7 @@ My research interests lie in deep generative models and reinforcement learning. 
 -	Principled RL for Diffusion LLMs Emerges from a Sequence-Level Perspective.  \\
 ***Jingyang Ou***, *Jiaqi Han, Minkai Xu, Shaoxuan Xu, Jianwen Xie, Stefano Ermon, Yi Wu, Chongxuan Li* \\
 International Conference on Learning Representations (**ICLR**), 2026 \\
-[[Paper]](https://arxiv.org/abs/2512.03759) [[Code]](https://github.com/ML-GSAI/ESPO) 
-
+[[Paper]](https://arxiv.org/abs/2512.03759) [[Code]](https://github.com/ML-GSAI/ESPO) [[Demo]](https://jingyangou.github.io/ESPO-Demo/)
 </div>
 
 
