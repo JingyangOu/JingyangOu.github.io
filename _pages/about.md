@@ -36,7 +36,7 @@ My research interests lie in deep generative models and reinforcement learning. 
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Papers
+# 📝 Papers  <a href='https://scholar.google.com/citations?user=6-wCRsoAAAAJ'>  <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FJingyangOu%2FJingyangOu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box-text' markdown="1">
 
