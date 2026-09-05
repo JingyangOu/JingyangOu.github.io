@@ -53,9 +53,10 @@ International Conference on Learning Representations (**ICLR**), 2026 \\
 -	Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data. \\
 ***Jingyang Ou***, *Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li* \\
 International Conference on Learning Representations (**ICLR**), 2025 \\
-<span style="color: red;">Proves that masked diffusion models admit a simplified training objective and 
-a time-independent network parameterization,\\
- both of which have since become standard. </span>\\
+<span style="color: red;">Proves that masked diffusion models admit a simplified training objective and a time-independent network parameterization.</span>
+<span style="color: #1d4ed8;">Adopted by <strong style="color: #1d4ed8;">Google DeepMind</strong> (<a href="https://arxiv.org/html/2608.00146v1">DiffusionGemma</a>),
+<strong style="color: #1d4ed8;">NVIDIA</strong> (<a href="https://arxiv.org/html/2607.05722v1">Nemotron-Labs-Diffusion</a>), and
+<strong style="color: #1d4ed8;">ByteDance</strong> (<a href="https://arxiv.org/html/2508.02193v1">Seed Diffusion</a>).</span><br>
 [[Paper]](https://arxiv.org/abs/2406.03736) [[Code]](https://github.com/ML-GSAI/RADD) [[Poster]](https://iclr.cc/media/PosterPDFs/ICLR%202025/28131.png?t=1744086454.3173294)
 </div>
 
